@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello betty
+chown betty /alx-system_engineering-devops/0x01-shell_permissions
