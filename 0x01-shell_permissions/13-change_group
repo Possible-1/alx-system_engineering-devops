@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school /alx-system_engineering-devops/0x01-shell_permissions/hello
+chgrp school ./hello
