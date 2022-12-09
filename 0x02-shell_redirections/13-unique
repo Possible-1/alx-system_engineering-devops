@@ -1,2 +1,2 @@
 #!/bin/bash
-cat < list | uniq -u | sort | fmt -1 -s
+sort | uniq -u | fmt -1 -s
