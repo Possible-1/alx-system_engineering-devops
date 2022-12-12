@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((echo $PATH | find -type d | wc -l))
+echo $((ls -lR $PATH | grep ^d | wc -l))
